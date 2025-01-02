@@ -28,7 +28,7 @@ const HomePage = () => {
         <div className="flex flex-row">
           <div className="mt-2">Don't Have An Account</div>
           <Link href="/signup" className="ml-2 mt-2">
-            <b>Sign Up</b>
+            <b>Sign up</b>
           </Link>
         </div>
       </div>
